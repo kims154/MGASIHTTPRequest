@@ -1,5 +1,5 @@
 {
-  "name": "MGASIHTTPRequest",
+  "name": "ASIHTTPRequest",
   "version": "1.8.2",
   "summary": "A ASIHTTPRequest for MG",
   "homepage": "https://github.com/kims154/MGASIHTTPRequest",
